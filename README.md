@@ -1,2 +1,4 @@
-# FindingOfShortestsPath
-An application for recursively searching for the shortest path between two specified points in a graph.
+# Finding Of Shortests Path (L)
+Приложение для рекурсивного поиска пути в графе между выбранными точками. Все ребра графов имеют вес 1.
+
+Примеры ввода тестов имеются в папке Tests.txt
